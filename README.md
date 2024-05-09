@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a passionate web developer, specialized in Symfony and WordPress development.  
+Recently, I started exploring the exciting world of React and Next.js to expand my skills and create modern, reactive web applications.
+
+### 🗒️ In short
+
+- 🌱 I’m currently learning React and Next.js Framework
+- 📫 How to reach me: [https://www.alexandre-quin.fr](https://www.alexandre-quin.fr)
